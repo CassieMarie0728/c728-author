@@ -1,3 +1,6 @@
+![My GitHub Activity](images/userstats.svg)
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/open-domains/register/main/media/icon.png" height="128"></p>
 <h1 align="center">Open Domains</h1>
 
