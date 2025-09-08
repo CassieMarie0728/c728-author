@@ -22,7 +22,7 @@ jobs:
 
       # Step 2: Actually run the stale action, like a responsible repo owner
       - name: Mark stale issues and PRs
-        uses: actions/stale@v9
+        uses: actions/stale@v10
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           stale-issue-message: "This issue is stale because it has been open 10 days with no activity. Remove stale label or comment, or this will be closed in 7 days. Don’t make me come back here."
